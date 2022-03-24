@@ -1,0 +1,49 @@
+body{
+    background: black;
+    color: white;
+    font-family: 'DEC Terminal Modern', sans-serif;   
+    width: 1080px; 
+    margin: 0 auto;                           
+}
+
+#schoola-title{
+    text-align: center;
+    padding: 100px;;
+}
+
+#school{
+
+    float: left;
+    width: 530px;
+    text-align: right;
+    
+}
+
+#title{
+    text-align: center;
+    padding: 100px;;
+}
+
+
+#entreteinment{
+    float: right;
+    width: 530px;
+    text-align: left;
+    
+}
+
+#school-content a,
+#entreteinment-content a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    list-style-type:none;
+}
+
+#school-content a:hover,
+#entreteinment-content a:hover{
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    list-style-type:none;
+}
